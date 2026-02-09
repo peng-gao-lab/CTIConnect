@@ -3,16 +3,11 @@
   <h1 align="center">CTIConnect: A Benchmark for Retrieval-Augmented LLMs over Heterogeneous Cyber Threat Intelligence</h1>
 </div>
 
-<p align="center">
-  <a href="https://arxiv.org/abs/xxxx.xxxxx"><img src="https://img.shields.io/badge/arXiv-Paper-red"></a>
-  <a href="#"><img src="https://img.shields.io/badge/KDD_2026-Datasets_&_Benchmarks-blue"></a>
-  <a href="https://github.com/peng-gao-lab/CTIConnect/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-green.svg"></a>
-</p>
 
 ## 🔔 Introduction
 
 <p align="center">
-  <img src="assets/overview.png" alt="CTIConnect Overview" style="width: 1000px;"> 
+  <img src="assets/overview2.png" alt="CTIConnect Overview" style="width: 1000px;"> 
 </p>
 
 **CTIConnect** is a benchmark for systematically evaluating retrieval-augmented LLMs across the Cyber Threat Intelligence (CTI) task landscape. It integrates five heterogeneous CTI sources (CVE, CWE, CAPEC, MITRE ATT&CK, and vendor threat reports) into **691 expert-curated QA pairs** spanning **nine tasks** across **three categories**:
